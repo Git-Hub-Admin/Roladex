@@ -1,0 +1,11 @@
+{
+<<<<<<< HEAD
+  "name": "Roladex",
+  "displayName": "Roladex"
+}
+=======
+  "expo": {
+    "sdkVersion": "23.0.0"
+  }
+}
+>>>>>>> fe5d4ef9d5e351e2eace033ba5b637877829f5a4
